@@ -1,0 +1,21 @@
+{
+  "name": "exercicio-27-07-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "nodemon": "^3.0.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}
